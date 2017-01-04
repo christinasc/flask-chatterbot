@@ -14,3 +14,5 @@
 
 ##How do I deploy this to a web server?
 If you do not have a dedicated server, I highly recommend using [PythonAnywhere](pythonanywhere.com/) or [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python#introduction) to host your application.
+
+## reminder to self to use virtualenv from chatterbot directory on local install 
